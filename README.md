@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damandeep23
+- 👋 Hi, I’m @damandeep Singh
 - 👀 I’m interested in Data Analyst Profile
 - 🌱 I’m currently learning Data Analyst Skills
 
